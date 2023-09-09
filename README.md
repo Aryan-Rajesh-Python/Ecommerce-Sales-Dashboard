@@ -1,1 +1,1 @@
-# Ecommerce-Sales-Dashboard
+An eCommerce Power BI dashboard tracks online sales data, showcasing revenue trends, product performance, customer behavior, and marketing insights. It offers real-time updates, integrates with eCommerce platforms, and aids data-driven decisions for business growth.
